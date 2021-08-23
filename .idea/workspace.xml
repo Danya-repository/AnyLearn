@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6cdd76d-aa85-42b2-86e7-95d6853a6f93" name="Default Changelist" comment="" />
+    <list default="true" id="d6cdd76d-aa85-42b2-86e7-95d6853a6f93" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +17,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1wrTKSHRJuJyqxAbl9HQbPi6roh" />
   <component name="ProjectViewState">
@@ -61,7 +66,9 @@
       <workItem from="1629299833624" duration="10185000" />
       <workItem from="1629389838752" duration="3110000" />
       <workItem from="1629393568323" duration="511000" />
-      <workItem from="1629394133239" duration="1514000" />
+      <workItem from="1629394133239" duration="2725000" />
+      <workItem from="1629733377407" duration="13000" />
+      <workItem from="1629733414742" duration="14000" />
     </task>
     <servers />
   </component>
@@ -73,10 +80,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="629" y="298" key="EditFileWatcherDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1629313554429" />
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1629300296613">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1629733427258">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1629300296613" />
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1629733427258" />
     <state width="949" height="282" key="GridCell.Tab.0.bottom" timestamp="1629392542953">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
